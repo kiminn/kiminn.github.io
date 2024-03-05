@@ -45,6 +45,8 @@ content:
             quote: >
                 PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: | # this will include new lines to allow paragraphs
+                
+                기술스택 및 협업
                 `React`와 `TypeScript`를 통해 개발을 진행하였고, `RTK`를 이용하여 전역 상태 관리를 했습니다.
 
                 `draw.io`를 통해 시퀀스 다이어그램을 그리고, `ThunderClient`를 사용하여 백엔드 Api 분석을 했습니다.
@@ -62,22 +64,27 @@ content:
             quote: >
                 PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: | # this will include new lines to allow paragraphs
-                `React`와 `TypeScript`를 통해 개발을 진행하였고, `RTK`를 이용하여 전역 상태 관리를 했습니다.
+                `React`와 `TypeScript`를 통한 개발 진행, `RTK`를 이용하여 전역 상태 관리를 했습니다.
 
                 `draw.io`를 통해 시퀀스 다이어그램을 그리고, `ThunderClient`를 사용하여 백엔드 Api 분석을 했습니다.
 
                 `github`와 `Linear`를 사용하여 협업을 하였습니다.
 
-          - title: PostMobism
-            link: https://github.com/mobi-MIMIZ/PostMobism
-            link_text: Project Github
+                **What did I do?**
+
+
+                
+
+          - title: MMM
+            link: https://velog.io/@kiminn/회고-MMM
+            link_text: Project Memoirs
             additional_links:
-                - title: github.com/mobi-MIMIZ/PostMobism
+                - title: github.com/Manners-Maketh-Market/MMM
                   icon: fab fa-github
-                  url: https://github.com/mobi-MIMIZ/PostMobism
+                  url: https://github.com/Manners-Maketh-Market/MMM
             # link_text: Project Website
             quote: >
-                PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
+                MMM은 중고 거래와 나눔 항목을 분리하여 중고나라와 번개장터처럼 물건을 사고팔며 채팅까지 할 수 있는 사이트입니다.
             description: | # this will include new lines to allow paragraphs
                 `React`와 `TypeScript`를 통해 개발을 진행하였고, `RTK`를 이용하여 전역 상태 관리를 했습니다.
 
@@ -114,10 +121,18 @@ content:
     - title: Education # Title for the section
       layout: list # Type of content section (list/text)
       content:
-          - layout: left
+          - layout: top-middle
             title: 경기대학교 서울캠퍼스
-            caption: 2016.3 - 2020.2 졸업
-            sub_title: 실용음악학과(작곡)
+            caption: 2016.3 - 2020.2 | 졸업
+            sub_title: 실용음악학과/작곡
+
+          - title: 코리아 IT 학원
+            caption: 2023.4 - 2023.10 | 수료
+            sub_title: 프론트엔드/주말
+
+          - title: Mobi Community
+            caption: 2023.12 - 2024.2
+            sub_title: 프론트엔드
 
 # Footer
 footer_show_references: true
