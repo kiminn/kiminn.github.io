@@ -33,18 +33,18 @@ content:
     - title: Projects # Title for the section
       layout: list # Type of content section (list/text)
       content:
-          - title: PostMobism
+          - layout: left
+            title: PostMobism
             link: https://velog.io/@kiminn/회고-PostMobism#역할-분담-및-목표
             link_text: Project Memoirs
             additional_links:
                 - title: github.com/mobi-MIMIZ/PostMobism
                   icon: fab fa-github
                   url: https://github.com/mobi-MIMIZ/PostMobism
-            layout: left
-
+            
             quote: >
                 PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
-            description: | # this will include new lines to allow paragraphs
+            description: | 
                   안녕<br>
                   하세요<br><br>
 
