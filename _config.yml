@@ -21,14 +21,7 @@ additional_links:
     - title: velog
       icon: fas fa-blog
       url: https://velog.io/@kiminn/posts
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
-# About Section
-# about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
     안녕하세요. 백엔드 개발자로 일하고 있는 박세환입니다. 신기술과 최신 트렌드에 관심이 많고 새로운 기술을 배우는 것을 좋아합니다. 개인뿐만 아니라 팀 전체의 생산성을 높이는 것에 관심이 많습니다.
