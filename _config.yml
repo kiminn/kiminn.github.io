@@ -17,7 +17,7 @@ about_content: >
     안녕하세요. 백엔드 개발자로 일하고 있는 박세환입니다. 신기술과 최신 트렌드에 관심이 많고 새로운 기술을 배우는 것을
     좋아합니다. 개인뿐만 아니라 팀 전체의 생산성을 높이는 것에 관심이 많습니다.
 
-    주 스킬은 <mark>TypeScript<mark>이며, Java8/11를 사용하고 있습니다.
+    주 스킬은 <mark>TypeScript</mark>이며, Java8/11를 사용하고 있습니다.
 
 
     서울에서 7년차 웹 프론트엔드 엔지니어로 일하고 있으며 아름다운 인터페이스와 애니메이션을 구현하는 것을 좋아합니다. 개발자의 가치는 비즈니스 가치를 구현하는데서 나온다고 믿습니다. 주도적으로 업무를 진행할 수 있는 환경을 선호합니다.
@@ -33,18 +33,18 @@ content:
                 - title: github.com/mobi-MIMIZ/PostMobism
                   icon: fab fa-github
                   url: https://github.com/mobi-MIMIZ/PostMobism
-            quote: >
-                PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: |
 
+                PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
+
                 ## Details
-                - <mark>RTK<mark>로 전역상태관리, <mark>RTK Query<mark>사용하여 무한스크롤링 구현
+                - <mark>RTK</mark>로 전역상태관리, <mark>RTK Query</mark>사용하여 무한스크롤링 구현
 
-                - <mark>msw<mark>를 통한 목데이터 구상, <mark>husky<mark>, <mark>esLint<mark>, <mark>tsconfig<mark> 초기 설정
+                - <mark>faker.js</mark>를 통한 퍼블리싱, <mark>husky</mark>, <mark>esLint</mark>, <mark>tsconfig</mark> 초기 설정
 
-                - <mark>draw.io<mark>를 통한 시퀀스다이어그램 작성, <mark>ThunderClient<mark>를 사용한 백엔드 Api 분석
+                - <mark>draw.io</mark>를 통한 시퀀스다이어그램 작성, <mark>ThunderClient</mark>를 사용한 백엔드 Api 예상 및 분석
 
-                - <mark>figma<mark>로 디자인, <mark>github<mark>와 <mark>Linear<mark>, <mark>discord<mark>를 통한 협업
+                - <mark>figma</mark>로 디자인, <mark>github</mark>, <mark>Linear</mark>, <mark>discord</mark>를 통한 협업
 
                 <br>
                 ## Tech Stack
@@ -56,43 +56,48 @@ content:
                 - title: github.com/mobi-chap-chap/chap-chap
                   icon: fab fa-github
                   url: https://github.com/mobi-chap-chap/chap-chap
-            quote: >
-                PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: |
+
+                chap-chap 은 다양한 레시피를 검색할 수 있는 사이트입니다.
+
+                공공 데이터 포털의 OpenApi <mark>식품의약품 안전처 조리식품레시피</mark> 와 Peanut님의 백엔드 Api를 활용하였습니다.
 
                 ## Details
 
-                - <mark>RTK<mark>로 전역상태관리, <mark>RTK Query<mark>사용하여 무한스크롤링 구현
+                - <mark>React-Query</mark>사용하여 전역상태관리 및 무한스크롤링 구현
 
-                - <mark>draw.io<mark>를 통한 시퀀스다이어그램 작성, <mark>ThunderClient<mark>를 사용한 백엔드 Api 분석
+                - <mark>zod</mark>와 <mark>react-hook-form</mark>을 사용한 회원가입/로그인 로직 구현
 
-                - <mark>figma<mark>로 디자인, <mark>github<mark>와 <mark>Linear<mark>를 사용한 협업
+                - <mark>figma</mark>로 디자인, <mark>github</mark>, <mark>Linear<mark>, <mark>discord</mark>를 통한 협업
+
+                - <mark>lottiefiles</mark>를 활용한 로딩중 애니메이션 효과
 
                 <br>
                 ## Tech Stack
-                - `React`, `TypeScript`, `styled-component`
+                - `React`, `TypeScript`, `tailwind css`
           - title: MMM
             link: https://velog.io/@kiminn/회고-MMM
             link_text: Project Memoirs
             additional_links:
                 - title: github.com/Manners-Maketh-Market/MMM
                   icon: fab fa-github
-                  url: https://github.com/Manners-Maketh-Market/MMM
-            quote: |
-                MMM은 중고 거래와 나눔 항목을 분리하여 중고나라와 번개장터처럼 물건을 사고팔며 채팅까지 할 수 있는 사이트입니다.
+                  url: https://github.com/Manners-Maketh-Market/MMM               
             description: |
 
+                MMM은 중고 거래와 나눔 항목을 분리하여 중고나라와 번개장터처럼 물건을 사고팔며 채팅까지 할 수 있는 사이트입니다.
                 ## Details
 
-                - <mark>RTK<mark>로 전역상태관리, <mark>RTK Query<mark>사용하여 무한스크롤링 구현
+                - <mark>React-Query</mark>사용하여 전역상태관리 및 무한스크롤링 구현
 
-                - <mark>draw.io<mark>를 통한 시퀀스다이어그램 작성, <mark>ThunderClient<mark>를 사용한 백엔드 Api 분석
+                - <mark>msw</mark>와 <mark>faker.js</mark>를 통한 백엔드 데이터 패칭 전 퍼블리싱
 
-                - <mark>figma<mark>로 디자인, <mark>github<mark>와 <mark>discord<mark>를 통한 협업
+                - <mark>figma</mark>로 디자인, <mark>github</mark>, <mark>discord</mark>를 통한 협
+
+                - <mark>socket.io</mark> 사용해보기
 
                 <br>
                 ## Tech Stack
-                - `React`, `TypeScript`, `styled-component`
+                - `React`, `styled-component`
     - title: Experience
       layout: list
       content:
