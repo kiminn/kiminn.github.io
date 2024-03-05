@@ -19,7 +19,7 @@ github_username: kiminn
 # Additional icon links
 additional_links:
     - title: velog
-      icon: fa-solid fa-blog
+      icon: fas fa-blog
       url: https://velog.io/@kiminn/posts
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
