@@ -51,9 +51,7 @@ content:
 
                 `github`와 `Linear`를 사용하여 협업을 하였습니다.
 
-      content:
-          - layout: left
-            title: chap-chap
+          - title: chap-chap
             link: https://velog.io/@kiminn/회고-chap-chap
             link_text: Project Memoirs
             additional_links:
@@ -70,11 +68,7 @@ content:
 
                 `github`와 `Linear`를 사용하여 협업을 하였습니다.
 
-
-
-      content:
-          - layout: left
-            title: PostMobism
+          - title: PostMobism
             link: https://github.com/mobi-MIMIZ/PostMobism
             link_text: Project Github
             additional_links:
@@ -90,15 +84,6 @@ content:
                 `draw.io`를 통해 시퀀스 다이어그램을 그리고, `ThunderClient`를 사용하여 백엔드 Api 분석을 했습니다.
 
                 `github`와 `Linear`를 사용하여 협업을 하였습니다.
-
-
-
-
-
-
-
-
-
 
     - title: Experience # Title for the section
       layout: list # Type of content section (list/text)
@@ -131,14 +116,8 @@ content:
       content:
           - layout: left
             title: 경기대학교 서울캠퍼스
-            caption: 2016.3 - 2020.2
-            sub_title: BSc Computer Science
-            quote: >
-                Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-            description: | # this will include new lines to allow paragraphs
-                During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-                I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+            caption: 2016.3 - 2020.2 졸업
+            sub_title: 실용음악학과(작곡)
 
 # Footer
 footer_show_references: true
