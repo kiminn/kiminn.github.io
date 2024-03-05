@@ -36,15 +36,19 @@ content:
             quote: >
                 PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: |
-                
-                - `RTK`사용하여 전역상태관리, `RTK Query`사용하여 무한스크롤링 구현
 
-                - `draw.io`를 통한 시퀀스다이어그램 작성 및 `ThunderClient`를 사용한 백엔드 Api 분석
+                ## Details
+                - <mark>RTK<mark>로 전역상태관리, <mark>RTK Query<mark>사용하여 무한스크롤링 구현
 
-                - `figma`로 디자인, `github`와 `Linear`를 사용한 협업
+                - <mark>msw<mark>를 통한 목데이터 구상, <mark>husky<mark>, <mark>esLint<mark>, <mark>tsconfig<mark> 초기 설정
 
+                - <mark>draw.io<mark>를 통한 시퀀스다이어그램 작성, <mark>ThunderClient<mark>를 사용한 백엔드 Api 분석
+
+                - <mark>figma<mark>로 디자인, <mark>github<mark>와 <mark>Linear<mark>, <mark>discord<mark>를 통한 협업
+
+                <br>
                 ## Tech Stack
-                `React`, `TypeScript`, `styled-component`
+                - `React`, `TypeScript`, `styled-component`
           - title: chap-chap
             link: https://velog.io/@kiminn/회고-chap-chap
             link_text: Project Memoirs
@@ -55,13 +59,18 @@ content:
             quote: >
                 PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: |
-                `React`와 `TypeScript`를 통한 개발 진행, `RTK`를 이용하여 전역 상태 관리를 했습니다.
 
-                `draw.io`를 통해 시퀀스 다이어그램을 그리고, `ThunderClient`를 사용하여 백엔드 Api 분석을 했습니다.
+                ## Details
 
-                `github`와 `Linear`를 사용하여 협업을 하였습니다.
+                - <mark>RTK<mark>로 전역상태관리, <mark>RTK Query<mark>사용하여 무한스크롤링 구현
 
-                **What did I do?**
+                - <mark>draw.io<mark>를 통한 시퀀스다이어그램 작성, <mark>ThunderClient<mark>를 사용한 백엔드 Api 분석
+
+                - <mark>figma<mark>로 디자인, <mark>github<mark>와 <mark>Linear<mark>를 사용한 협업
+
+                <br>
+                ## Tech Stack
+                - `React`, `TypeScript`, `styled-component`
           - title: MMM
             link: https://velog.io/@kiminn/회고-MMM
             link_text: Project Memoirs
@@ -72,11 +81,18 @@ content:
             quote: |
                 MMM은 중고 거래와 나눔 항목을 분리하여 중고나라와 번개장터처럼 물건을 사고팔며 채팅까지 할 수 있는 사이트입니다.
             description: |
-                `React`와 `TypeScript`를 통해 개발을 진행하였고, `RTK`를 이용하여 전역 상태 관리를 했습니다.
 
-                `draw.io`를 통해 시퀀스 다이어그램을 그리고, `ThunderClient`를 사용하여 백엔드 Api 분석을 했습니다.
+                ## Details
 
-                `github`와 `Linear`를 사용하여 협업을 하였습니다.
+                - <mark>RTK<mark>로 전역상태관리, <mark>RTK Query<mark>사용하여 무한스크롤링 구현
+
+                - <mark>draw.io<mark>를 통한 시퀀스다이어그램 작성, <mark>ThunderClient<mark>를 사용한 백엔드 Api 분석
+
+                - <mark>figma<mark>로 디자인, <mark>github<mark>와 <mark>discord<mark>를 통한 협업
+
+                <br>
+                ## Tech Stack
+                - `React`, `TypeScript`, `styled-component`
     - title: Experience
       layout: list
       content:
