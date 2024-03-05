@@ -31,35 +31,31 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-    I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+    안녕하세요. 백엔드 개발자로 일하고 있는 박세환입니다. 신기술과 최신 트렌드에 관심이 많고 새로운 기술을 배우는 것을 좋아합니다. 개인뿐만 아니라 팀 전체의 생산성을 높이는 것에 관심이 많습니다.
+    주 스킬은 <mark>TypeScript<mark>이며, Java8/11를 사용하고 있습니다.
+    
+    서울에서 7년차 웹 프론트엔드 엔지니어로 일하고 있으며 아름다운 인터페이스와 애니메이션을 구현하는 것을 좋아합니다. 개발자의 가치는 비즈니스 가치를 구현하는데서 나온다고 믿습니다. 주도적으로 업무를 진행할 수 있는 환경을 선호합니다.
 
 content:
     - title: Projects # Title for the section
       layout: list # Type of content section (list/text)
       content:
           - layout: top-middle
-            title: Super awesome project
-            link: github.com/sproogen
+            title: PostMobism
+            link: https://github.com/mobi-MIMIZ/PostMobism
+            link: https://velog.io/@kiminn/회고-PostMobism
             # link_text: Project Website
-            additional_links:
-                - title: sproogen/modern-resume-theme
-                  icon: fab fa-github
-                  url: github.com/sproogen/modern-resume-theme
-                # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-                #   icon: fab fa-github
-                #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
             quote: >
-                This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+                PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: | # this will include new lines to allow paragraphs
-                I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+                `React`와 `TypeScript`를 통해 개발을 진행하였고, `RTK`를 이용하여 전역상태관리를 했습니다.
+                `draw.io`와 `ThunderClient`를 사용하여 백엔드 Api분석을 했습니다.
 
     - title: Experience # Title for the section
       layout: list # Type of content section (list/text)
       content:
           - layout: left
-            title: The Boring Company
+            title: Frontend
             link: boringcompany.com
             # link_text: boringcompany.com
             sub_title: Senior Network System Administrator
@@ -69,12 +65,25 @@ content:
             description: | # this will include new lines to allow paragraphs
                 Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
+    - title: Skills
+            layout: list # Type of content section (list/text)
+      content:
+          - layout: left
+            title: Frontend
+            quote: >
+                프로젝트를 진행하며 사용중인 기술스택들 입니다.
+            description: | # this will include new lines to allow paragraphs
+                - React
+                - javascript
+                - 
+
+
     - title: Education # Title for the section
       layout: list # Type of content section (list/text)
       content:
           - layout: left
-            title: Harvard University
-            caption: 2010 - 2013
+            title: 경기대학교 서울캠퍼스
+            caption: 2016.3 - 2020.2
             sub_title: BSc Computer Science
             quote: >
                 Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -83,17 +92,7 @@ content:
 
                 I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-    - title: A Little More About Me
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-          Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-          - Rock climbing
-          - Gaming
-          - Knitting
-          - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-          Look at this cool image  
-          ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
