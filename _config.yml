@@ -45,13 +45,14 @@ content:
             quote: >
                 PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
             description: | # this will include new lines to allow paragraphs
-                
-                기술스택 및 협업
-                `React`와 `TypeScript`를 통해 개발을 진행하였고, `RTK`를 이용하여 전역 상태 관리를 했습니다.
+                  안녕<br>
+                  하세요<br><br>
 
-                `draw.io`를 통해 시퀀스 다이어그램을 그리고, `ThunderClient`를 사용하여 백엔드 Api 분석을 했습니다.
+                - `React`와 `TypeScript`를 통해 개발을 진행하였고, `RTK`를 이용하여 전역 상태 관리를 했습니다.
 
-                `github`와 `Linear`를 사용하여 협업을 하였습니다.
+                - `draw.io`로 시퀀스 다이어그램을 그리고, `ThunderClient`를 사용하여 백엔드 Api 분석을 했습니다.
+
+                - `github`와 `Linear`를 사용하여 협업을 하였습니다.
 
           - title: chap-chap
             link: https://velog.io/@kiminn/회고-chap-chap
@@ -70,10 +71,11 @@ content:
 
                 `github`와 `Linear`를 사용하여 협업을 하였습니다.
 
-                **What did I do?**
+                # h1
 
+                ## h2 
 
-                
+                ### What did I do?
 
           - title: MMM
             link: https://velog.io/@kiminn/회고-MMM
