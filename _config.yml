@@ -123,10 +123,9 @@ content:
 
                 현재는 내부 추천으로만 운영되고 있으며 향후 홈페이지 개설 및 외부 공개를 통해 영역을 점차 확장해 나갈 예정입니다
           - layout: top-middle
-            title: After Mobi
-            sub_title: NextJS
+            sub_title: After Mobi | NextJS
             quote: |
-                NextJS 공부중 (z.com 클론코딩, 노마드코더, 블로그 글 작성 ...)
+                모비 수료 후 NextJS 공부중 (z.com 클론 코딩, 노마드 코더 수강, 블로그 글 작성 등...)
 
           - layout: top-middle
             sub_title: TypeScript, Project(chap-chap)
