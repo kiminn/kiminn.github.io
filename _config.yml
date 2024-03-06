@@ -123,14 +123,18 @@ content:
 
                 현재는 내부 추천으로만 운영되고 있으며 향후 홈페이지 개설 및 외부 공개를 통해 영역을 점차 확장해 나갈 예정입니다
 
-          - sub_title: After Mobi
-            description: |
+          - description: |
+
+                # After Mobi
+
                 - NextJS 공부중 (z.com 클론코딩, 노마드코더, 블로그 글 작성 ...)
 
                 <br><br><br>
 
-          - sub_title: 타입스크립트에 대한 이해와 모비톤을 활용한 프로젝트 (chap-chap)
-            description: |
+          - description: |
+
+                # 타입스크립트에 대한 이해와 모비톤을 활용한 프로젝트 (chap-chap)
+
                 - 타입스크립트 활용
 
                 - 무한 스크롤링
@@ -139,8 +143,10 @@ content:
 
                 <br><br><br>
 
-          - sub_title: 보일러 템플릿, 회원가입&로그인 라이브러리, URL히스토리 관리
-            description: |
+          - description: |
+
+                # 보일러 템플릿, 회원가입&로그인 라이브러리, URL히스토리 관리
+
                 - 페이지네이션
 
                 - ReactHookForm & YUP
@@ -151,8 +157,10 @@ content:
 
                 <br><br><br>
 
-          - sub_title: 디자인 시스템 적용과 관련 다양한 라이브러리의 사용
-            description: |
+          - description: |
+
+                # 디자인 시스템 적용과 관련 다양한 라이브러리의 사용
+
                 - storybook을 사용한 컴포넌트 주도 개발
 
                 - emotion 
