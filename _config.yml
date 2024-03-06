@@ -37,7 +37,8 @@ content:
 
                 PostMobism은 백엔드 Api를 활용하여 회원가입, 로그인, 게시글 CRUD 그리고 댓글 작성을 할 수 있는 사이트입니다.
 
-                ## Details
+                <br>
+                ## What Did I Do?
                 - <mark>RTK</mark>로 전역상태관리, <mark>RTK Query</mark>사용하여 무한스크롤링 구현
 
                 - <mark>faker.js</mark>를 통한 퍼블리싱, <mark>husky</mark>, <mark>esLint</mark>, <mark>tsconfig</mark> 초기 설정
@@ -49,6 +50,9 @@ content:
                 <br>
                 ## Tech Stack
                 - `React`, `TypeScript`, `styled-component`
+
+                <br><br>
+
           - title: chap-chap
             link: https://velog.io/@kiminn/회고-chap-chap
             link_text: Project Memoirs
@@ -60,60 +64,114 @@ content:
 
                 chap-chap 은 다양한 레시피를 검색할 수 있는 사이트입니다.
 
-                공공 데이터 포털의 OpenApi <mark>식품의약품 안전처 조리식품레시피</mark> 와 Peanut님의 백엔드 Api를 활용하였습니다.
+                공공 데이터 포털의 OpenApi 식품의약품 안전처 조리식품레시피와 Peanut님의 백엔드 Api를 활용하였습니다.
 
-                ## Details
+                <br>
+                ## What Did I Do?
 
                 - <mark>React-Query</mark>사용하여 전역상태관리 및 무한스크롤링 구현
 
                 - <mark>zod</mark>와 <mark>react-hook-form</mark>을 사용한 회원가입/로그인 로직 구현
 
-                - <mark>figma</mark>로 디자인, <mark>github</mark>, <mark>Linear<mark>, <mark>discord</mark>를 통한 협업
+                - <mark>figma</mark>로 디자인, <mark>github</mark>, <mark>Linear</mark>, <mark>discord</mark>를 통한 협업
 
                 - <mark>lottiefiles</mark>를 활용한 로딩중 애니메이션 효과
 
                 <br>
                 ## Tech Stack
                 - `React`, `TypeScript`, `tailwind css`
+
+                <br><br>
+
           - title: MMM
             link: https://velog.io/@kiminn/회고-MMM
             link_text: Project Memoirs
             additional_links:
                 - title: github.com/Manners-Maketh-Market/MMM
                   icon: fab fa-github
-                  url: https://github.com/Manners-Maketh-Market/MMM               
+                  url: https://github.com/Manners-Maketh-Market/MMM
             description: |
 
                 MMM은 중고 거래와 나눔 항목을 분리하여 중고나라와 번개장터처럼 물건을 사고팔며 채팅까지 할 수 있는 사이트입니다.
-                ## Details
+
+                <br>
+                ## What Did I Do?
 
                 - <mark>React-Query</mark>사용하여 전역상태관리 및 무한스크롤링 구현
 
                 - <mark>msw</mark>와 <mark>faker.js</mark>를 통한 백엔드 데이터 패칭 전 퍼블리싱
 
-                - <mark>figma</mark>로 디자인, <mark>github</mark>, <mark>discord</mark>를 통한 협
+                - <mark>figma</mark>로 디자인, <mark>github</mark>, <mark>discord</mark>를 통한 협업
 
                 - <mark>socket.io</mark> 사용해보기
 
                 <br>
                 ## Tech Stack
                 - `React`, `styled-component`
+
+                <br><br>
+
     - title: Experience
       layout: list
       content:
           - layout: left
-            title: Frontend
-            link: boringcompany.com
-            sub_title: Senior Network System Administrator
-            caption: November 2017 - Present
-            quote: >
-                Solving 21st century problems by diging holes and making game changing
-                products like the *not a flamethrower*
-            description: >
-                Every company needs its networks properly administered and The
-                Boring Compay is no exception. Digging holes is hard and I play my
-                part making sure the whole company stays connected. I lead a team of 5
-                people and enjoy driving the company to try new technologies.
+            title: Mobi Community
+            caption: 2023.12 - 2024.2
+            sub_title: 프론트엔드
+            quote: |
+                모비는 값비싼 사교육, 현실적 시간 투자의 결여에 겁먹은 세상의 모든 비전공자들을 위해 무료로 교육을 제공하고 취업 이후의 인프라 형성을 통해 새로운 시작을 응원하는 비영리 단체입니다. 
+
+                현재는 내부 추천으로만 운영되고 있으며 향후 홈페이지 개설 및 외부 공개를 통해 영역을 점차 확장해 나갈 예정입니다
+            description: |
+                - React
+                - javascript
+
+
+                <br><br>
+
+          - title: After Mobi
+            description: |
+                NextJS 공부중 (z.com 클론코딩, 노마드코더, 블로그 글 작성 ...)
+
+                <br><br>
+
+          - title: 타입스크립트에 대한 이해와 모비톤을 활용한 프로젝트 (chap-chap)
+            description: |
+                - 타입스크립트 활용
+
+                - 무한 스크롤링
+
+                - 백엔드 API 분석
+
+                <br><br>
+
+          - title: 보일러 템플릿, 회원가입&로그인 라이브러리, URL히스토리 관리
+            description: |
+                - 페이지네이션
+
+                - ReactHookForm & YUP
+
+                - 필터링
+
+                - 의존성 주입 및 관심사 분리
+
+                <br><br>
+
+          - title: 디자인 시스템 적용과 관련 다양한 라이브러리의 사용
+            description: |
+                - storybook을 사용한 컴포넌트 주도 개발
+
+                - emotion 
+
+                - styled-component
+
+                - tailwind css, ui
+
+                - Chakra UI, MUI
+
+                <br><br>
+
+          
     - title: Skills
       layout: list
       content:
@@ -122,9 +180,9 @@ content:
             quote: |
                 프로젝트를 진행하며 사용중인 기술스택들 입니다.
             description: |
-                - React
+                - React : 어느정도 할 수 있는지 작성...
                 - javascript
-                -
+
     - title: Education
       layout: list
       content:
