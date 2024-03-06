@@ -114,7 +114,7 @@ content:
     - title: Experience
       layout: list
       content:
-          - layout: left
+          - layout: top-middle
             title: Mobi Community
             caption: 2023.12 - 2024.2
             sub_title: 프론트엔드
@@ -122,20 +122,15 @@ content:
                 모비는 값비싼 사교육, 현실적 시간 투자의 결여에 겁먹은 세상의 모든 비전공자들을 위해 무료로 교육을 제공하고 취업 이후의 인프라 형성을 통해 새로운 시작을 응원하는 비영리 단체입니다. 
 
                 현재는 내부 추천으로만 운영되고 있으며 향후 홈페이지 개설 및 외부 공개를 통해 영역을 점차 확장해 나갈 예정입니다
-            description: |
-                - React
-                - javascript
 
+          - layout: left
+            sub_title: After Mobi
+            description: |
+                - NextJS 공부중 (z.com 클론코딩, 노마드코더, 블로그 글 작성 ...)
 
                 <br><br>
 
-          - title: After Mobi
-            description: |
-                NextJS 공부중 (z.com 클론코딩, 노마드코더, 블로그 글 작성 ...)
-
-                <br><br>
-
-          - title: 타입스크립트에 대한 이해와 모비톤을 활용한 프로젝트 (chap-chap)
+          - sub_title: 타입스크립트에 대한 이해와 모비톤을 활용한 프로젝트 (chap-chap)
             description: |
                 - 타입스크립트 활용
 
@@ -145,7 +140,7 @@ content:
 
                 <br><br>
 
-          - title: 보일러 템플릿, 회원가입&로그인 라이브러리, URL히스토리 관리
+          - sub_title: 보일러 템플릿, 회원가입&로그인 라이브러리, URL히스토리 관리
             description: |
                 - 페이지네이션
 
@@ -157,7 +152,7 @@ content:
 
                 <br><br>
 
-          - title: 디자인 시스템 적용과 관련 다양한 라이브러리의 사용
+          - sub_title: 디자인 시스템 적용과 관련 다양한 라이브러리의 사용
             description: |
                 - storybook을 사용한 컴포넌트 주도 개발
 
@@ -171,7 +166,6 @@ content:
 
                 <br><br>
 
-          
     - title: Skills
       layout: list
       content:
